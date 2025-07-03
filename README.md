@@ -21,7 +21,7 @@ python calculadora.py
 
 ## 👨‍💻 Desenvolvido por
 
-**Wesllen da Silva Ferreira**  
+ Wesllen da Silva Ferreira  
 Estudante de Análise e Desenvolvimento de Sistemas  
 São José dos Campos - SP  
 
