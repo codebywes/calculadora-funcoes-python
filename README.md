@@ -18,3 +18,12 @@ Este projeto é uma calculadora simples feita em Python que utiliza **funções 
 
 ```bash
 python calculadora.py
+
+## 👨‍💻 Desenvolvido por
+
+**Wesllen da Silva Ferreira**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+São José dos Campos - SP  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/weslen-silva-98a0442aa)  
+🔗 [GitHub](https://github.com/codebywes)
